@@ -74,7 +74,7 @@ A curated collection of books, newsletters, and resources for mastering **System
 - [High Growth Engineer](https://highgrowthengineer.substack.com/)
 - [Craft Better Software](https://craftbettersoftware.substack.com/)
 - [Refactoring](https://refactoring.fm/)
-- [Dev Community](https://dev.to/)
+
 ---
 
 ## 3. 🚀 Entrepreneurship and Indie Hacking
