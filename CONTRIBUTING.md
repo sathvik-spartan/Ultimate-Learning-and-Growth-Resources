@@ -1,4 +1,4 @@
-# 🤝 Contribution Guidelines
+# Contribution Guidelines
 
 Thank you for considering contributing to this project!  
 Your help in expanding, improving, and refining this resource is highly appreciated.
@@ -7,7 +7,7 @@ Please take a moment to review the guidelines below:
 
 ---
 
-## ✍️ How to Contribute
+## How to Contribute
 
 1. **Fork the repository**  
    Create your own copy by clicking the "Fork" button at the top right.
@@ -40,7 +40,7 @@ Please take a moment to review the guidelines below:
 - Fill in the PR template with a clear description of what you changed.
 - Submit the PR!
 
-## 📚 Contribution Ideas
+## Contribution Ideas
 - Add new books, articles, courses, or newsletters related to:
 - System Design & Architecture
 - Software Engineering
@@ -52,12 +52,12 @@ Please take a moment to review the guidelines below:
 - Improve descriptions or summaries for existing resources.
 - Help maintain updated and fresh content.
 
-## 📜 Code of Conduct
+## Code of Conduct
 Please be respectful, constructive, and kind in your contributions.
 We value open collaboration and a positive community environment for everyone.
 
-## 🙌 Thank You!
-Your contribution will help others on their journey of continuous learning and growth 🚀
+## Thank You!
+Your contribution will help others on their journey of continuous learning and growth 
 Let's make this project the best resource out there!
    
 
