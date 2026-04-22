@@ -1,12 +1,12 @@
-# 📚 Ultimate Learning and Growth Resources
+# Ultimate Learning and Growth Resources
 
 A curated collection of books, newsletters, and resources for mastering **System Design**, **Software Engineering**, **Entrepreneurship**, **Career Growth**, and **Personal Development**.
 
 ---
 
-## 1. 🏗️ System Design and Architecture
+## 1. System Design and Architecture
 
-### 📚 Books
+### Books
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
 - [Web Scalability for Startup Engineers](https://www.amazon.com/Web-Scalability-Startup-Engineers-Technical/dp/1491902585)
 - [Building Microservices - Sam Newman](https://samnewman.io/books/building_microservices/)
@@ -17,7 +17,7 @@ A curated collection of books, newsletters, and resources for mastering **System
 - [Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)
 - [System Design Interview (Vol 1 & 2)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 
-### 📝 Newsletters
+### Newsletters
 - [The System Design Newsletter](https://systemdesign.one/)
 - [ByteByteGo Newsletter](https://blog.bytebytego.com/)
 - [System Design Codex](https://systemdesigncodex.com/)
@@ -30,9 +30,9 @@ A curated collection of books, newsletters, and resources for mastering **System
 
 ---
 
-## 2. 💻 Software Engineering and Career
+## 2. Software Engineering and Career
 
-### 📚 Books
+### Books
 - [Clean Code - Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)
 - [The Clean Coder - Robert C. Martin](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/)
 - [A Philosophy of Software Design - John Ousterhout](https://web.stanford.edu/~ouster/cgi-bin/book.php)
@@ -51,7 +51,7 @@ A curated collection of books, newsletters, and resources for mastering **System
 - [The Software Engineer’s Guidebook](https://www.amazon.com/Software-Engineers-Guidebook-Shawn-McCool/dp/B0C8V3X94D)
 - [The Effective Engineer](https://www.effectiveengineer.com/)
 
-### 📝 Newsletters
+### Newsletters
 (For these, many are on Substack. I'll link the main ones here — you can expand later.)
 
 - [Strategize Your Career](https://strategizeyourcareer.substack.com/)
@@ -77,15 +77,15 @@ A curated collection of books, newsletters, and resources for mastering **System
 
 ---
 
-## 3. 🚀 Entrepreneurship and Indie Hacking
+## 3. Entrepreneurship and Indie Hacking
 
-### 📚 Books
+### Books
 - [The Dip - Seth Godin](https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666)
 - [The Personal MBA - Josh Kaufman](https://personalmba.com/)
 - [Hooked: How to Build Habit-Forming Products - Nir Eyal](https://www.nirandfar.com/hooked/)
 - [Zero to One - Peter Thiel](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 
-### 📝 Newsletters
+### Newsletters
 - [The IndiePreneur](https://theindiepreneur.substack.com/)
 - [Product Driven Newsletter](https://productdriven.news/)
 - [mtlynch.io Blog](https://mtlynch.io/)
@@ -94,13 +94,13 @@ A curated collection of books, newsletters, and resources for mastering **System
 
 ---
 
-## 4. 🔎 Curated Sources, Interviews, and Staying Up to Date
+## 4. Curated Sources, Interviews, and Staying Up to Date
 
-### 📚 Books
+### Books
 - [Tribe of Mentors - Tim Ferriss](https://tribeofmentors.com/)
 - [Tools of Titans - Tim Ferriss](https://toolsoftitans.com/)
 
-### 📝 Newsletters
+### Newsletters
 - [Hungry Minds](https://hungryminds.substack.com/)
 - [TLDR](https://www.tldrnewsletter.com/)
 - [Journal of Discoveries](https://journalofdiscoveries.substack.com/)
@@ -110,9 +110,9 @@ A curated collection of books, newsletters, and resources for mastering **System
 
 ---
 
-## 5. 🌟 Additional Books Worth Reading
+## 5. Additional Books Worth Reading
 
-### 🧠 Productivity, Focus & Habits
+### Productivity, Focus & Habits
 - [Getting Things Done - David Allen](https://gettingthingsdone.com/)
 - [The Motivation Hacker - Nick Winter](https://www.amazon.com/Motivation-Hacker-Nick-Winter/dp/0989263103)
 - [The Compound Effect - Darren Hardy](https://www.thecompoundeffect.com/)
@@ -121,13 +121,13 @@ A curated collection of books, newsletters, and resources for mastering **System
 - [Deep Work - Cal Newport](https://www.calnewport.com/books/deep-work/)
 - [Atomic Habits - James Clear](https://jamesclear.com/atomic-habits)
 
-### 💰 Personal Finance & Wealth Building
+### Personal Finance & Wealth Building
 - [The Millionaire Fastlane - MJ DeMarco](https://www.themillionairefastlane.com/)
 - [Money: Master the Game - Tony Robbins](https://www.amazon.com/MONEY-Master-Game-Financial-Freedom/dp/1476757801)
 - [The Millionaire Next Door](https://www.amazon.com/Millionaire-Next-Door-Thomas-Stanley/dp/1589795474)
 - [I Will Teach You to Be Rich - Ramit Sethi](https://iwillteachyoutoberich.com/)
 
-### 🧩 Career Development, Learning & Professional Growth
+### Career Development, Learning & Professional Growth
 - [Show Your Work - Austin Kleon](https://austinkleon.com/show-your-work/)
 - [Ultralearning - Scott Young](https://www.scotthyoung.com/blog/ultralearning/)
 - [Learning How to Learn - Barbara Oakley](https://barbaraoakley.com/books/learning-how-to-learn/)
@@ -136,7 +136,7 @@ A curated collection of books, newsletters, and resources for mastering **System
 - [The Proximity Principle - Ken Coleman](https://www.ramseysolutions.com/career-advice/the-proximity-principle)
 - [The Culture Map - Erin Meyer](https://erinmeyer.com/)
 
-### 🧘‍♂️ Mindset, Personal Growth & Philosophy, Decision Making
+### Mindset, Personal Growth & Philosophy, Decision Making
 - [Antifragile - Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/0812979680)
 - [Thinking, Fast and Slow - Daniel Kahneman](https://www.amazon.com/Thinking-Fast-and-Slow-Daniel-Kahneman/dp/0374533555)
 - [Never Split the Difference - Chris Voss](https://www.blackswanltd.com/never-split-the-difference)
@@ -144,10 +144,10 @@ A curated collection of books, newsletters, and resources for mastering **System
 
 ---
 
-# 🚀 Learn Faster, Grow Faster
+# Learn Faster, Grow Faster
 > "Want a higher salary, more free time, and faster learning?  
 > This curated knowledge is your shortcut."
 
 ---
 
-Feel free to ⭐️ star this repo if you find it helpful as i personally will keep updating this repo!
+Feel free to star this repo if you find it helpful as i personally will keep updating this repo!
