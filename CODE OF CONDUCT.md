@@ -1,4 +1,4 @@
-# 📜 Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 
@@ -71,4 +71,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-🙏 Thank you for helping make this project a welcoming and inclusive space for everyone!
+Thank you for helping make this project a welcoming and inclusive space for everyone!
